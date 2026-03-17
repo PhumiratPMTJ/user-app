@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-const API = 'http://10.202.10.35:3001';
+const API = 'http://cpeup05.duckdns.org/api';
 
 function App() {
   const [page, setPage] = useState('home');

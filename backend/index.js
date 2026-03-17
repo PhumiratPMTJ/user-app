@@ -51,4 +51,5 @@ app.post('/login', async (req, res) => {
 });
 
 app.listen(3001, () => {
-  console.log('Ser
+  console.log('Server running on port 3001');
+});
